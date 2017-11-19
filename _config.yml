@@ -1,13 +1,13 @@
 # Site settings
-title: Oliver Montesino Pérez
+title: Oliver Montesino - SysAdmin & WebDev
 description: SysAdmin & Software Developer
 # baseurl: "/particle" # the subpath of your site, e.g. /blog
 url: "https://olivermontesino.github.io" # the base hostname & protocol for your site e.g. http://willianjusten.com.br
 
 # User settings
 username: Oliver Montesino
-user_description: SysAdmin making my way in to Web & Software Development
-user_title: Software Developer
+user_description: System Administrator making my way in to Web & Software Development
+user_title: SysAdmin & Software Developer
 email: xquendix@gmail.com
 twitter_username: QuendiGeek
 github_username:  olivermontesino
